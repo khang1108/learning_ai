@@ -1,5 +1,5 @@
 # Overview
-Here is my repository used for learning new AI knowledge, such as Deep Learning with [PyTorch](https://pytorch.org/), Machine Learning, LLMs and NLP. All of the knowledge in this repository I've learned from [Patrick Loeber](https://www.youtube.com/watch?v=c36lUUr864M&t=6466s) and [Coursera](https://www.coursera.org/).
+Here is my repository used for learning new AI knowledge, such as Deep Learning with [PyTorch](https://pytorch.org/), Machine Learning, LLMs and NLP. All of the knowledge in this repository I've learned from [Patrick Loeber](https://www.youtube.com/watch?v=c36lUUr864M&t=6466s), [Coursera](https://www.coursera.org/) and [Stanford Course](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=jJ-_vWTPfD4eM7jX)
 
 I want to share the knowledge I've learned from various sources with everyone who needs it. I'm just a second-year student studying Computer Science at [Ho Chi Minh University of Science - VNUHCM](https://hcmus.edu.vn/).
 
